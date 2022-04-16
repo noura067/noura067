@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @noura067
+
 - 👀 I’m interested in ...software engineering 
 - 🌱 I’m currently learning ... programming 
 
